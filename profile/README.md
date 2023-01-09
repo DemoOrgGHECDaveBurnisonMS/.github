@@ -17,9 +17,8 @@ For example, I can show status badges for **GitHub Actions** workflows across mu
 ## Security Posture
 
 ### GitHub
-[Risk](https://github.com/orgs/DemoOrgGHECDaveBurnisonMS/security/risk)
-
-[Coverage](https://github.com/orgs/DemoOrgGHECDaveBurnisonMS/security/coverage)
+- [Risk](https://github.com/orgs/DemoOrgGHECDaveBurnisonMS/security/risk)
+- [Coverage](https://github.com/orgs/DemoOrgGHECDaveBurnisonMS/security/coverage)
 
 ### Azure
-[Defender for DevOps](https://ms.portal.azure.com/#view/Microsoft_Azure_Security/SecurityMenuBlade/~/DevOpsSecurity)
+- [Defender for DevOps](https://ms.portal.azure.com/#view/Microsoft_Azure_Security/SecurityMenuBlade/~/DevOpsSecurity)
