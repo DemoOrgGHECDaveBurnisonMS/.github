@@ -18,6 +18,7 @@ For example, I can show status badges for **GitHub Actions** workflows across mu
 
 ### GitHub
 [Risk](https://github.com/orgs/DemoOrgGHECDaveBurnisonMS/security/risk)
+
 [Coverage](https://github.com/orgs/DemoOrgGHECDaveBurnisonMS/security/coverage)
 
 ### Azure
